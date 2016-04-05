@@ -13,7 +13,7 @@ ___
 |Expected Graduation|Spring 2018|
 |Cumulative GPA| 3.95|
 
-#### Organizations		
+### Organizations		
 ##### Phi Sigma Rho
 _August 2014 – Present_
 -	A social and professional sorority for women in STEM fields
@@ -31,7 +31,7 @@ _August 2014 - Present_
 _July 2015 - Present_
 -	Active member in spreading awareness of Tibetan culture and oppression
 
-#### Service
+### Service
 ##### Fayetteville Parks and Recreation
 _Fall 2015_
 -	Soccer coach for a U7 boys team.
@@ -58,7 +58,7 @@ _Summer 2015_
 _Fall 2014_
 -	An Honors College program where students present their research to high school students to show research opportunities at universities.
  
-#### Honors and Awards	
+### Honors and Awards	
 ##### Sturgis Fellowship
 -	Awarded annually to four incoming freshman deemed to have the most potential in the Fulbright College of Arts and Sciences 
 ##### Governor’s Distinguished Scholar
@@ -67,7 +67,7 @@ _Fall 2014_
 _Fall 2014, Spring 2015_
 -	Honor Roll for high achieving students at the University of Arkansas
 
-#### General Skills			
+### General Skills			
 ##### Programming
 -	Fluent in C++
 -	Fluent in Java
@@ -85,7 +85,7 @@ _Fall 2014, Spring 2015_
 -	Analyzing the reason behind why certain genes were highly upregulated or downregulated in E. coli when growing in the presence of grapheme
 -	(Current) Determining and predicting genes in Acidothermus Cellulolyticus using BLAST
 
-#### Relevant Coursework
+### Relevant Coursework
 |||
 |-----------|:---|
 |Programming Foundations I|Programming Foundations II |
